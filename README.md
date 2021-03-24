@@ -1,1 +1,1 @@
-# This is a score keeper-sample 
+# This is a score keeper-sample repository
